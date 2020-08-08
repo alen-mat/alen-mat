@@ -8,7 +8,7 @@
 -->
 - 🌱 I’m currently learning  <img align="" alt="Node.js" width="26px" src="https://i.dlpng.com/static/png/511529_preview.png" /><img align="" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ... <img align="" alt="Apache Ant" width="26px" src="https://static.javatpoint.com/tutorial/apache-ant/images/apache-ant-tutorial.png" />
+- I’m looking for help with ... <img align="" alt="Apache Ant" width="26px" src="https://static.javatpoint.com/tutorial/apache-ant/images/apache-ant-tutorial.png" />
 - 📫 How to reach me: ... 
 - ⚡ Fun fact: ... 🤔
 - 🥅 2020 Goals: Contribute more to Open Source projects
