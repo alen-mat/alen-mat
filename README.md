@@ -11,7 +11,7 @@
 - I’m looking for help with ... <img align="" alt="Apache Ant" width="26px" src="https://static.javatpoint.com/tutorial/apache-ant/images/apache-ant-tutorial.png" />
 - 📫 How to reach me: ... 
 - ⚡ Fun fact: ... 🤔
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 
 <!--
 ### Connect with me:
