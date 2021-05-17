@@ -50,6 +50,6 @@
 [eclipse]: https://www.eclipse.org/
 [JAVA]:https://www.java.com/en/
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=alen-mat&show_icons=true&hide_border=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=alen-mat&show_icons=true&theme=chartreuse-dark&hide_border=true)
 
 
